@@ -3,6 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="google-site-verification" content="EQjLdz5eGTOZz4sD5fyh_5O2RAO2CQNxFUqoZa0D7Og" />
     
     <title>@yield('title', 'Sars Infotech | Best SMS Provider, Bulk SMS, TXN SMS & WhatsApp API')</title>
     <meta name="description" content="@yield('description', 'Sars Infotech is the best SMS provider delivering top-tier enterprise messaging infrastructure. We specialize in Bulk SMS, TXN SMS, WhatsApp API solutions, and Custom Software Development.')">
