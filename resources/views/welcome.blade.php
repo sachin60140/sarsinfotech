@@ -130,6 +130,9 @@
             <h3>Enterprise WhatsApp API & RCC</h3>
             <p>Transform how you interact with your customer base. Our official <strong>WhatsApp API</strong> integrations empower you to deploy AI-driven chatbots, rich media catalogs, and verified business communications natively within the world's most popular messaging app. Transitioning from legacy channels to <strong>RCS messaging</strong> and the <strong>WhatsApp API</strong> dramatically increases conversion rates and user engagement.</p>
 
+            <h3>Intelligent Cloud Telephony</h3>
+            <p>Virtualize your enterprise communications with our robust <strong>Cloud Telephony</strong> and IVR solutions. Whether routing thousands of inbound queries through an intelligent Virtual PBX or projecting a localized presence via Toll-Free numbers, our infrastructure allows you to scale communication hubs predictably. Seamlessly integrate call analytics and voice-recording components into your existing CRM architectures.</p>
+
             <h3>Comprehensive IT & Platform Development</h3>
             <p>Beyond being the top-tier <strong>Bulk SMS</strong> platform natively available, we deploy massive, bespoke architecture through <strong>custom software development</strong>. From scaling cloud ecosystems to implementing aggressive technical <strong>SEO</strong> strategies that dominate Google metrics, Sars Infotech bridges the gap between digital marketing and robust software engineering.</p>
         </div>

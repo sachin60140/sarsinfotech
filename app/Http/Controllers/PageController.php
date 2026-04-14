@@ -37,6 +37,11 @@ class PageController extends Controller
             'name' => 'Social Media Marketing (SMM)',
             'desc' => 'Impactful social media management to skyrocket your brand visibility.',
             'benefits' => ['Viral Strategies', 'Audience Growth', 'Performance Tracking', 'Brand Consistency']
+        ],
+        'cloud-telephony' => [
+            'name' => 'Cloud Telephony Systems',
+            'desc' => 'Virtualize your communications with intelligent IVR, toll-free routing, and comprehensive call analytics.',
+            'benefits' => ['Smart IVR Routing', 'Call Recording & Analytics', 'Toll-Free Architecture', 'Seamless CRM Integration']
         ]
     ];
 
